@@ -1,6 +1,7 @@
 # 💫 About Me:
 Recent bachelor’s graduate from KdG University of Applied Sciences and Arts.<br><br>I enjoy building projects, learning new technologies, and turning ideas into practical solutions.<br>I'm currently growing my skills, working on personal projects, and looking for opportunities to learn, collaborate, and contribute to the tech community.
 
+PS: This is my personal GitHub account. I use a separate business account for professional development, so my activity statistics on this account may not fully reflect my development work.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yvon.ng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-ng-03980b1b1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yvon.ng15@gmail.com) 
